@@ -1,16 +1,19 @@
-### Hi there 👋
+# C++ Bachelor's Archive👨‍💻
 
-<!--
-**rizaferdian/rizaferdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Digital Craftsman (Developer/Graphic Desgin)'**
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=C%2B%2B+Bachelor's+Archive;Dasar+Pemrograman+SMT+1;Algoritma+dan+Struktur+Data+SMT+2)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCqN1DDJRD9hYj1KtcphgxeQ?sub_confirmation=1)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/ferdianfarizaa/)
+
+I'm Ferdian Nur Fariza, a passionate individual pursuing a Bachelor's degree in Informatics Engineering. I find immense joy and fulfillment in the realms of UI/UX and graphic design, where I constantly strive to blend creativity with functionality.
+
+## About Me
+
+- 🎓 Bachelor's degree candidate in Informatics Engineering.
+- 💼 Passionate about UI/UX and graphic design.
+- 🌱 Always eager to learn and explore new technologies.
+
+
