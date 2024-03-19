@@ -10,6 +10,8 @@
 
 I'm Ferdian Nur Fariza, a passionate individual pursuing a Bachelor's degree in Informatics Engineering. I find immense joy and fulfillment in the realms of UI/UX and graphic design, where I constantly strive to blend creativity with functionality.
 
+
+
 ## About Me
 
 - 🎓 Bachelor's degree candidate in Informatics Engineering.
